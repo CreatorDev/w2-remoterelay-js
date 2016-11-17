@@ -1,0 +1,7 @@
+{
+  "name" : "readrelay",
+  "version" : "1.0.0",
+  "dependencies" : {
+    "creator-js-client": "https://github.com/CreatorDev/creator-js-client.git"
+  }
+}
